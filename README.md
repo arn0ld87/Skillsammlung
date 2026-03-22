@@ -115,13 +115,13 @@ Version: 1.0.0
 <td width="50%" valign="top">
 
 ### 🎓 `fisi`
-**Fachinformatiker Lern-Assistant**
+**Fachinformatiker Systemintegration**
 
-Lehrerinnen-Assistenz für Deutsch und Ev. Religion (Kl. 5-10, Gymnasium). Didaktisch aufbereitete Inhalte mit Quellenangaben.
+Unterstützung bei der FiSi-Ausbildung/Umschulung. Netzwerke, Linux/Windows-Server, Datenbanken, Scripting, IT-Sicherheit, Cloud, Virtualisierung, Prüfungsvorbereitung AP1/AP2.
 
 ```yaml
-Anwendung: Unterrichtsvorbereitung, Prüfungsvorbereitung
-Use Case: Gymnasium, Lehrkräfte, Schüler
+Anwendung: FiSi-Lehrplan, Netzwerke, Server, Scripting
+Use Case: Ausbildung, Umschulung, Prüfungsvorbereitung
 Version: 1.1.0
 ```
 
